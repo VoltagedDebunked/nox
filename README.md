@@ -8,6 +8,8 @@ Nox is a feature-rich terminal emulator that well, emulates a terminal.
 ### Prequisites
 - [CMake](https://cmake.org)
 - [Git](https://git-scm.com)
+- GTK 3.0 (sudo pacman -S gtk3)
+- VTE (sudo pacman -S vte3)
 
 To Install, 1st, clone the repo:
 
