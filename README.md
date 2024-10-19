@@ -1,3 +1,4 @@
+![Nox Logo](https://i.ibb.co/nb2FN7g/image-1.png)
 # Nox Terminal Emulator
 
 Nox is a feature-rich terminal emulator that well, emulates a terminal.
