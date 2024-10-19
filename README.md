@@ -25,5 +25,10 @@ This will automatically install Nox on your system.
 
 Nice! Nox is now installed on your system.
 
+To Open Nox, run:
+```bash
+nox
+```
+
 # License
 [GPL-3.0](LICENSE)
